@@ -1,0 +1,12 @@
+Django
+djangorestframework
+django-filter
+djoser
+djangorestframework-simplejwt
+gunicorn
+python-dotenv
+pillow
+drf-extra-fields
+django-colorfield
+psycopg2
+psycopg2-binary==2.9.3 
